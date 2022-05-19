@@ -19,5 +19,5 @@ import tensorflow.keras as keras
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.optimizers import Adam
 ```
-**Training result**:
+**Training result**:<br />
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TDYcXUJmAB4/0.jpg)](https://www.youtube.com/watch?v=TDYcXUJmAB4)
